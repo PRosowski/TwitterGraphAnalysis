@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Project files 
+.twitter_conf_auth.csv
+.neo4j_conf.csv
